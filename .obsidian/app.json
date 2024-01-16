@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./",
+  "promptDelete": false
+}
