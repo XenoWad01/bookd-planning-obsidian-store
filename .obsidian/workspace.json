@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "right": {
     "id": "d12fddfa3efc8041",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md"
               }
             }
           }
@@ -186,15 +187,16 @@
   },
   "active": "ad2ff49bc5c5855f",
   "lastOpenFiles": [
+    "Pages/Statistics/(PAGE_SPEC) StatisticsPage.md",
+    "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md",
+    "README.md",
     "Pages/Pages.md",
     "Features/CurrentOccupancy/(FEAT_SPEC) CurrentOccupancyFeature.md",
     "Features/ClientList/(FEAT_SPEC) ClientList.md",
-    "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md",
     "Features/Features.md",
     "Readme.md.md",
     "CI & Deploy.md",
     "Features/BookingList/(FEAT_SPEC) Booking List.md",
-    "Pages/Statistics/(PAGE_SPEC) StatisticsPage.md",
     "Pages/Home/(PIC) HomePage-NEWISH.png",
     "BookingList/(FEAT_SPEC).md",
     "Excalidraw/Drawing 2024-01-15 21.11.47.excalidraw.md",
