@@ -2,8 +2,6 @@
 # Backend implications
 
 ```ts
-interface Room {}
-interface Date {}
 getCheckinCheckoutData(fromDate: Date, toDate: Date): {
 		checkInData: Array<{
 			clientName: string, 
