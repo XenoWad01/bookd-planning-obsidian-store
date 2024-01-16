@@ -1,5 +1,5 @@
 # Backend implications
-```
+```ts
 getBooking({
 	status: array of 'IN_PROGRESS' | ''.... all of em
 }) ( will be paginated )
