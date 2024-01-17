@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Features/Calendar/(FEAT_SPEC) Calendar.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Features/Calendar/(FEAT_SPEC) Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Features/Calendar/(FEAT_SPEC) Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Features/Calendar/(FEAT_SPEC) Calendar.md"
               }
             }
           },
@@ -158,17 +158,17 @@
   },
   "active": "4d218d43458ab83a",
   "lastOpenFiles": [
-    "CI & Deploy.md",
-    "README.md",
-    "Pages/Pages.md",
     "Features/CurrentOccupancy/(FEAT_SPEC) CurrentOccupancyFeature.md",
-    "Features/Untitled Kanban.md",
-    "Pages/Statistics/(PAGE_SPEC) StatisticsPage.md",
     "Features/CheckInCheckOutSpecificTasks/(FEAT_SPEC) CheckIn CheckOut Specific Tasks.md",
-    "2024-01-17.md",
-    "Features/Features.md",
     "Features/BookingList/(FEAT_SPEC) Booking List.md",
     "Features/ClientList/(FEAT_SPEC) ClientList.md",
+    "Features/Features.md",
+    "README.md",
+    "CI & Deploy.md",
+    "Pages/Pages.md",
+    "Features/Untitled Kanban.md",
+    "Pages/Statistics/(PAGE_SPEC) StatisticsPage.md",
+    "2024-01-17.md",
     "Readme.md.md",
     "Pages/Home/(PIC) HomePage-NEWISH.png",
     "BookingList/(FEAT_SPEC).md",
